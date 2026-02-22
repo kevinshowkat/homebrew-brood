@@ -1,6 +1,6 @@
 cask "brood" do
-  version "0.2.3"
-  sha256 "3be11616ee6759c3bfb398417b3081f547995ff5584b8e9b9085723a1cda70bf"
+  version "0.2.4"
+  sha256 "342071e977e4f560018d17c1d59adfe7999ecc5f5ff730692f5e7b28519f92c9"
 
   url "https://github.com/kevinshowkat/brood/releases/download/v#{version}/Brood_#{version}_universal.dmg"
   name "Brood"
